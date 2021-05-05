@@ -70,7 +70,7 @@ switch (difficolta) {
     break;
 
     case(2):
-    tentativiMax = 3;
+    tentativiMax = 34;
     numeroMax = 50;
     break; 
 }
